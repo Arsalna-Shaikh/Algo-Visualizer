@@ -35,7 +35,7 @@ It allows users to run, test, and understand algorithms interactively, making it
 
 ## 🎥 Demo
 
-[▶️ Watch the 2-Minute Demo]
+[▶️ Watch the 2-Minute Demo](https://github.com/Arsalna-Shaikh/Algo-Visualizer/issues/1#issue-5593745068)
 ---
 
 ## ✨ Features
