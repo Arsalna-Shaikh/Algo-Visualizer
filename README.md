@@ -35,8 +35,7 @@ It allows users to run, test, and understand algorithms interactively, making it
 
 ## 🎥 Demo
 
-[▶️ Watch the 2-Minute Demo](https://github.com/AYESHAAMIR01/Algo-Visualizer/issues/1#issue-5402388302)
-
+[▶️ Watch the 2-Minute Demo]
 ---
 
 ## ✨ Features
@@ -150,7 +149,7 @@ This project is licensed under **MIT License** – see [LICENSE](LICENSE).
 ## 👥 Authors
 
 * Contributors: [Hamna ALi Khan](https://github.com/HamnaAliKhan) ,[Afeerah Shafqat](https://github.com/Afeerah-S), [Arsalna Shaikh](https://github.com/Arsalna-Shaikh), [Amna Mohsin](https://github.com/amna-mohsin), [Ayesha Amir](https://github.com/AYESHAAMIR01)
-* For collaborations or inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ayesha-amir-a9d8b2/)
+* For collaborations or inquiries, connect on [LinkedIn](https://www.linkedin.com/in/arsalna-shaikh-53a236321/)
 
 ---
 
