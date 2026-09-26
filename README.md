@@ -149,8 +149,7 @@ This project is licensed under **MIT License** – see [LICENSE](LICENSE).
 
 ## 👥 Authors
 
-* Developed and maintained by **Ayesha Amir**
-* Contributors: [Hamna ALi Khan](https://github.com/HamnaAliKhan) ,[Afeerah Shafqat](https://github.com/Afeerah-S), [Arsalna Shaikh](https://github.com/Arsalna-Shaikh),[Amna Mohsin](https://github.com/amna-mohsin)
+* Contributors: [Hamna ALi Khan](https://github.com/HamnaAliKhan) ,[Afeerah Shafqat](https://github.com/Afeerah-S), [Arsalna Shaikh](https://github.com/Arsalna-Shaikh),[Amna Mohsin](https://github.com/amna-mohsin), [Ayesha Amir](https://github.com/AYESHAAMIR01)
 * For collaborations or inquiries, connect on [LinkedIn](https://www.linkedin.com/in/ayesha-amir-a9d8b2/)
 
 ---
