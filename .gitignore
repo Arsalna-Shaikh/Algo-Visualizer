@@ -1,0 +1,48 @@
+# =========================
+# Qt Creator / Qt generated
+# =========================
+*.pro.user
+*.user
+*.autosave
+.qmake.stash
+
+# MOC / UI / RCC generated files
+moc_*
+ui_*
+qrc_*
+
+# =========================
+# Build folders
+# =========================
+build*/
+debug/
+release/
+
+# =========================
+# Object & binary files
+# =========================
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# =========================
+# IDE / OS files
+# =========================
+.vscode/
+.vs/
+*.DS_Store
+Thumbs.db
+
+# =========================
+# Backup files
+# =========================
+*~
